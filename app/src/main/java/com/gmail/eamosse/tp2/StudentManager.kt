@@ -29,7 +29,7 @@ interface StudentManager {
     /**
      * Delete student by sex
      */
-    fun deleteBySex(sex: String)
+    fun deleteBySex(sexe: String)
 
     /**
      * Invert the list
